@@ -29,7 +29,7 @@ h2
 	}	
 h2 span
 	{
-		color: #28a7e9;
+		color: #65e4ff;
 		font-weight: bold;
 	}
 /* end h2 */
@@ -218,7 +218,7 @@ header .social-icon li a
 	}
 #home h1 span
 	{
-		color: #28a7e9;
+    color: #65e4ff;
 		font-weight: bold;
 	}
 #home .btn
