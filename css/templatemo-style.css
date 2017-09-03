@@ -599,8 +599,17 @@ header .social-icon li a
 {
   border: none !important;
 }
-.nounderline
-{
-  text-decoration: none !important;
-  color: white !important;
+.modal-dialog {
+  width: 97%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  margin-left: 2%;
+}
+
+.modal-content {
+  height: auto;
+  min-height: 100%;
+  border-radius: 0;
+  color: #000000;
 }
