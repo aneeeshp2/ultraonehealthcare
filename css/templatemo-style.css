@@ -594,3 +594,13 @@ header .social-icon li a
 
 }
 /* end 360 media quires */
+/* Aneesh */
+.borderless
+{
+  border: none !important;
+}
+.nounderline
+{
+  text-decoration: none !important;
+  color: white !important;
+}
