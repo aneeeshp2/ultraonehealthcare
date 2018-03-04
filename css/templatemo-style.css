@@ -29,7 +29,7 @@ h2
 	}	
 h2 span
 	{
-		color: #65e4ff;
+		color: #8a919b;
 		font-weight: bold;
 	}
 /* end h2 */
@@ -204,7 +204,7 @@ header .social-icon li a
 /* start home */
 #home
 	{
-		background: url('../images/main-banner.png') no-repeat;
+		background: url('../images/banner-2.png') no-repeat;
 		background-size: cover;
 		padding-top: 160px;
 		padding-bottom: 100px;
@@ -215,17 +215,19 @@ header .social-icon li a
 		font-weight: 300;
 		font-size: 60px;
 		padding-bottom: 10px;
+    color: #261d20 !important;
 	}
 #home h1 span
 	{
-    color: #65e4ff;
+    color: #8a919b;
 		font-weight: bold;
 	}
 #home .btn
 	{
 		background: transparent;
 		border-radius: 2px;
-		color: #fff;
+    border-color: #261d20;
+		color: #261d20;
 		font-size: 16px;
 		font-weight: bold;
 		margin-top: 20px;
@@ -243,6 +245,7 @@ header .social-icon li a
 .element {
 	height: 60px;
 	font-size: 16px;
+  color: purple;
 }
 /* end home */
 
